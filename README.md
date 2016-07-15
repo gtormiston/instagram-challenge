@@ -1,7 +1,43 @@
-Instagram Challenge
-===================
+# Instagram Challenge
+---
+Makers Academy week 8 weekend challenge: build Instagram using Ruby on Rails.
 
-Instructions
+## User stories
+---
+
+```
+As a User
+So I can post photos as myself
+I want to be able to sign in
+```
+```
+As a User
+So I can show people what I am doing
+I want to submit photos to the app
+```
+```
+As a User
+So I can see what my friends are doing
+I want to see a stream of other's photos
+```
+```
+As a User
+So I can let people know my awesome opinions
+I want to write comments on other's photos
+```
+```
+As a User
+So I can show which photos I like
+I want to 'like' photos
+```
+```
+As a User
+So I can pretend i'm using Instagram and not some naff alternative
+I want the site to look like Instagram
+```
+
+
+Instructions from Makers
 -------
 * Challenge time: Friday, the entire day + the weekend if you need it
 * Feel free to use Google, your notes, books, etc., but work on your own
@@ -13,10 +49,6 @@ Task
 -----
 
 Build Instagram: Simple huh!
-
-Bonus if you can write your own set of sensible user stories!
-
-As usual please start by forking this repo. After cloning your fork and cd'ing into it, you'll need to [initialize a Rails app in the current directory](http://blog.jasonmeridth.com/posts/create-rails-application-in-current-directory/).
 
 Your challenge is to build Instagram using Rails. You'll need **users** who can post **pictures**, write **comments** on pictures and **like** a picture. Style it like Instagram's website (or more awesome).
 
