@@ -1,4 +1,5 @@
 require 'rails_helper'
+require_relative '../helpers/web_helpers'
 
 feature 'User' do
 
@@ -19,7 +20,14 @@ feature 'User' do
     end
 
     context 'signed in user' do
-      scenario 'should have a link to sign out'
+
+      before do
+        sign_up
+      end
+
+      scenario 'should have a link to sign out' do
+        expect(page).to have_link 'Sign Out'
+      end
     end
 
 end

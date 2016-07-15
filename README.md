@@ -4,12 +4,8 @@ Makers Academy week 8 weekend challenge: build Instagram using Ruby on Rails.
 
 ## User stories
 ---
+_Pending_:
 
-```
-As a User
-So I can post photos as myself
-I want to be able to sign in
-```
 ```
 As a User
 So I can show people what I am doing
@@ -35,6 +31,25 @@ As a User
 So I can pretend i'm using Instagram and not some naff alternative
 I want the site to look like Instagram
 ```
+```
+As a User
+So that people know who I am
+I want to be able to upload an avatar image of myself
+```
+```
+As a User
+So that people know who I am
+I want to be able to add a bio and website to my profile
+```
+
+_Completed_:
+
+```
+As a User
+So I can post photos as myself
+I want to be able to sign in
+```
+
 
 
 Instructions from Makers
